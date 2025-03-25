@@ -1,0 +1,7 @@
+{
+  "name": "yuno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
